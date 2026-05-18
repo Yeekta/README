@@ -9,7 +9,7 @@ Eski usul ezberci kodlama mantığı yerine; yapay zekayı bir asistan olarak ya
 
 ## 🚀 Şu An Ne Yapıyorum?
 
-* 🧠 **Bilgisayarlı Görü:** YOLOv8 (Pose Estimation) ve OpenCV kütüphanelerini kullanarak insan-bilgisayar etkileşimi üzerine pratik projeler geliştiriyorum.
+* 🧠 **Bilgisayarlı Görüş:** YOLOv8 (Pose Estimation) ve OpenCV kütüphanelerini kullanarak insan-bilgisayar etkileşimi üzerine pratik projeler geliştiriyorum.
 * 📊 **Veri Analizine Geçiş:** Python temellerimi (döngüler, koşullu durumlar, fonksiyonlar) sağlamlaştırdım; şu anda büyük veri dünyasının kapısını aralamak için **NumPy** ve **Pandas** kütüphanelerini öğrenme sürecindeyim.
 * 🛠️ **Problem Çözme:** Önüme çıkan hataları (`IndexError`, `IndentationError` vb.) birer engel olarak değil, sistem mimarisini ve kod güvenliğini (kalkan yapılarını) öğrenmek için birer fırsat olarak görüyorum.
 
