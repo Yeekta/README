@@ -1,31 +1,30 @@
-# README
 # Merhaba, Ben Yekta! 👋
 
-Yapay zeka, bilgisayarlı görü (Computer Vision) ve veri bilimi dünyasına adım atmış, teknolojiyi "sadece kullanmayı" değil, arkasındaki mantığı **"bilerek ve anlayarak"** öğrenmeyi ilke edinmiş bir yazılım geliştirici adayıyım.
+Kütahya Dumlupınar Üniversitesi'nde **Ekonometri** öğrencisiyim. Teorik istatistik ve veri analizini seviyorum; bu analitik bakış açısını yapay zeka ve yazılımla birleştirerek pratik projelere dönüştürmeye çalışıyorum.
 
-Eski usul ezberci kodlama mantığı yerine; yapay zekayı bir asistan olarak yanıma alıp, algoritmaların, veri yapılarının ve kütüphanelerin mutfağına inerek projeler üretmeyi seviyorum.
+Kuru kuruya kod kopyalayıp "çalıştı" demek yerine; önüme çıkan hataları anlamayı, algoritmaların arkasında dönen mantığı çözmeyi ve süreci bizzat kontrol etmeyi önemsiyorum.
 
 ---
 
 ## 🚀 Şu An Ne Yapıyorum?
 
-* 🧠 **Bilgisayarlı Görüş:** YOLOv8 (Pose Estimation) ve OpenCV kütüphanelerini kullanarak insan-bilgisayar etkileşimi üzerine pratik projeler geliştiriyorum.
-* 📊 **Veri Analizine Geçiş:** Python temellerimi (döngüler, koşullu durumlar, fonksiyonlar) sağlamlaştırdım; şu anda büyük veri dünyasının kapısını aralamak için **NumPy** ve **Pandas** kütüphanelerini öğrenme sürecindeyim.
-* 🛠️ **Problem Çözme:** Önüme çıkan hataları (`IndexError`, `IndentationError` vb.) birer engel olarak değil, sistem mimarisini ve kod güvenliğini (kalkan yapılarını) öğrenmek için birer fırsat olarak görüyorum.
+* 🧠 **Bilgisayarlı Görü:** YOLOv8 (Pose Estimation) ve OpenCV kütüphanelerini kurcalıyorum. Kameradan gelen anlık görüntü verilerini anlamlandırıp tepki veren yapay zeka yapıları üzerine denemeler yapıyorum.
+* 📊 **Veri Analizi:** Python'ın temel taşlarını (döngüler, fonksiyonlar, hata yönetimi) oturttum. Şu an ekonometrinin dijital laboratuvarı sayılan **NumPy** ve **Pandas** kütüphaneleriyle veri analitiği dünyasına giriş yapıyorum.
+* 🛠️ **Yolun Başındayım:** Yazılımı sıfırdan her şeyi ezbere yazarak değil; yapay zekayı akıllı bir akıl hocası olarak kullanıp tersine mühendislikle öğreniyorum.
 
 ---
 
-## 🛠️ Teknolojik Kelime Dağarcığım (Öğrenme Yolculuğum)
+## 🛠️ Teknolojik Dağarcığım (Öğrenme Süreci)
 
-* **Diller:** Python 3 (Temel Veri Tipleri, Yapılar, Fonksiyonlar ve Hata Yönetimi)
-* **Yapay Zeka & Görüntü İşleme:** YOLOv8 (Ultralytics), OpenCV (cv2)
-* **Kütüphaneler & Araçlar:** Pygame (Ses/Medya Yönetimi), PyCharm IDE, Git & GitHub
+* **Diller:** Python 3 (Temel Yapılar, Koşullar ve Try-Except Yapıları)
+* **Yapay Zeka & Görüntü:** YOLOv8, OpenCV (cv2)
+* **Kütüphaneler & Araçlar:** Pygame (Ses Kontrolü), PyCharm IDE, Git & GitHub
 
 ---
 
-## 📈 Hedeflerim
+## 📈 Hedefim
 
-Kuru kuruya kod kopyalayan bir "promptçu" olmak yerine, elindeki yaratıcı fikirleri mühendislik aklıyla birleştirip çalışan, optimize edilmiş ve endüstriyel değeri olan ürünlere dönüştüren bir **Yazılım Mühendisi** olmak.
+Ekonometriden gelen matematik, istatistik ve ekonometrik modelleme gücümü yazılımla birleştirerek; veri analitiği, yapay zeka destekli uygulamalar veya Fintech (Finans Teknolojileri) alanında kendimi uzmanlaştırmak.
 
 > "Tekerleği yeniden keşfetmeye gerek yok, ama o tekerleğin nasıl döndüğünü bilmek zorundayız."
 
