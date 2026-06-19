@@ -1,6 +1,6 @@
 # Merhaba, Ben Yekta! 👋
 
-Kütahya Dumlupınar Üniversitesi'nde **Ekonometri** öğrencisiyim. İstatistik ve veri analitiğine olan ilgimi; yapay zeka, bilgisayarlı görü (Computer Vision) ve robotik yazılımlarla birleştirerek pratik projelere dönüştürmeyi hedefliyorum.
+Kütahya Dumlupınar Üniversitesi'nde **Ekonometri** öğrencisiyim. İstatistik ve veri analitiğine olan ilgimi; yapay zeka, bilgisayarlı görüş (Computer Vision) ve robotik yazılımlarla birleştirerek pratik projelere dönüştürmeyi hedefliyorum.
 
 Kuru kuruya kod kopyalayıp "çalıştı" demek yerine; önüme çıkan hataların mantığını çözmeyi, algoritmaların arkasındaki veri yapılarını anlamayı ve süreci bizzat kontrol etmeyi önemsiyorum.
 
